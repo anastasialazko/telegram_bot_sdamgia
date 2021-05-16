@@ -3,7 +3,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 
-TOKEN = "1821045601:AAGMVG7O1sUdUbCcC7ZuTMzpSG22TKQSRRk"
+TOKEN = "***"
 # База данных хранит выбранные юзером предметы
 BOT_DB_NAME = "users_exams"
 # Тестовые данные поддерживаемых экзаменов
