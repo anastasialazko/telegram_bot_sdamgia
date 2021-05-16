@@ -3,7 +3,7 @@
 [SdamGiaBot](https://t.me/lazy_hse_bot)
 
 Аккаунт — @lazy_hse_bot
-### Использованные API: https://ege.sdamgia.ru/, sdamgia-api 0.1.7
+Использованные API: https://ege.sdamgia.ru/, sdamgia-api 0.1.7
 
 ### Возможности бота:
 /start — выбор предмета, по которму будет сформирован вариант для решения
