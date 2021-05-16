@@ -1,0 +1,5 @@
+aiogram==2.11.2
+ujson==4.0.1
+uvloop==0.14.0
+requests==2.25.1
+python-telegram-bot==13.5
