@@ -2,7 +2,6 @@
 ## Бот, позволяющий решать задания ЕГЭ по выбранному предмету в режиме реального времени
 [SdamGiaBot](http://t.me/Sdamgia_test_bot)
 
-Аккаунт — @lazy_hse_bot
 Использованные API: https://ege.sdamgia.ru/, sdamgia-api 0.1.7
 
 ### Возможности бота:
