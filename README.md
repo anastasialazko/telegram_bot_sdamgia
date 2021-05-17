@@ -1,6 +1,6 @@
 # telegram_bot_sdamgia
 ## Бот, позволяющий решать задания ЕГЭ по выбранному предмету в режиме реального времени
-[SdamGiaBot](t.me/Sdamgia_test_bot)
+[SdamGiaBot](http://t.me/Sdamgia_test_bot)
 
 Аккаунт — @lazy_hse_bot
 Использованные API: https://ege.sdamgia.ru/, sdamgia-api 0.1.7
